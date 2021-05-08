@@ -68,7 +68,7 @@ var strike = 0;
 
     const goBack = async function(event) {
         event.preventDefault();
-        location.href = "/index.html"        
+        location.href = "/index.html";        
     }
 
     const genOne = async function(event) {
