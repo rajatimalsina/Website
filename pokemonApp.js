@@ -67,7 +67,7 @@ var strike = 0;
 
 
     const goBack = async function(event) {
-//         event.preventDefault();
+        event.preventDefault();
         location.href = "/index.html";        
     }
 
