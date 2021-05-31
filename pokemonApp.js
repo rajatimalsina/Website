@@ -9,7 +9,6 @@ var strike = 0;
         let numb;
         let store;
         let checker = false;
-        let random = 0;
 
         if (parseInt(document.getElementById("point").innerText) == parseInt(document.getElementById("totalPoints").innerText)) {
             alert("You got all the points possible. You won the game and therefore are a Pokemon Master");
